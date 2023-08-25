@@ -27,7 +27,7 @@ Allow attackers to execute arbitrary code on the victim target system with only 
 "The issue results from the lack of proper validation of user-supplied data, which can result in memory access past the end of an allocated buffer."
 "The specific flaw exists with in the processing of recovery volumes"
 
-# wasuh
+# wazuh
 ## XDR
 E**x**tended **D**etection and **Response** is a new approach to threat detection and response that provides holistic protection against cbyerattacks, unauthorized access and misuse.
 
