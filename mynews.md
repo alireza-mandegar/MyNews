@@ -30,4 +30,32 @@ Allow attackers to execute arbitrary code on the victim target system with only 
 # wasuh
 ## XDR
 E**x**tended **D**etection and **Response** is a new approach to threat detection and response that provides holistic protection against cbyerattacks, unauthorized access and misuse.
+
 *Wazuh* is used to **collect**, **aggregate**, **index** and **analyse** security data, helping arganizations detect **intusions**, **threats** and **behavioral anomalies**.
+
+# Sysmon Event IDs
+1--> Process Creation
+2--> A process Changed a File Creation Time
+3--> Network Connection
+4--> Sysmon Service State Changed
+5--> Process Terminated
+6--> Driver Loaded
+7--> Image Loaded
+8--> Create Remote Thread
+9--> Raw Access Read
+10--> Process Access
+11--> File Creation
+12--> Registry Event (Object Create and Delete)
+13--> Registry Event (Value Set)
+14--> Registry Event (Key and Value Rename)
+15--> File Create Stream Hash
+16--> Sysmon Config State Change
+17--> Pipe Created
+18--> Pipe Connected
+19--> WmiEventFilter Activity Detected
+20--> WmiEventconsumer Activity Detected
+21--> WmiEventconsumerToFilter Activity Detected
+22--> DNS Event
+23--> File Delete
+24--> Clipboard Change
+225--> Error
