@@ -26,3 +26,8 @@ Is a common issue occurring while using the windows server with applications tha
 Allow attackers to execute arbitrary code on the victim target system with only opening a compromised archive file.
 "The issue results from the lack of proper validation of user-supplied data, which can result in memory access past the end of an allocated buffer."
 "The specific flaw exists with in the processing of recovery volumes"
+
+# wasuh
+## XDR
+E**x**tended **D**etection and **Response** is a new approach to threat detection and response that provides holistic protection against cbyerattacks, unauthorized access and misuse.
+*Wazuh* is used to **collect**, **aggregate**, **index** and **analyse** security data, helping arganizations detect **intusions**, **threats** and **behavioral anomalies**.
