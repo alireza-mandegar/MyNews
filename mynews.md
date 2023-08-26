@@ -81,3 +81,6 @@ User Account Was Deleted
 
 # Windows Event Code 4734
 A Security-Enabled Local Group Was Deleted
+
+# Screensaver Registry (T1546)
+This technique was seen in several APT and malware where they put the malicious payload path to the SCRNSAVE.EXE registry key to redirect the execution to their malicious payload path. This TTP is a good indicator that some attacker may modify this entry for their persistence and privilege escalation. [MITRE](https://attack.mitre.org/techniques/T1546/002/)
