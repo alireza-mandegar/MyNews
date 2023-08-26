@@ -73,4 +73,11 @@ Stand for **R**emote **P**rocedure **C**all; Remote Procedure Call (RPC) is a po
 ![When making a Remote Procedure Call](https://media.geeksforgeeks.org/wp-content/uploads/operating-system-remote-procedure-call-1.png)
 [More about this Protocol](https://www.geeksforgeeks.org/remote-procedure-call-rpc-in-operating-system/)
 
+# Windows Event Code 4720
+A User Account Was Created
 
+# Windows Event Code 4726
+User Account Was Deleted
+
+# Windows Event Code 4734
+A Security-Enabled Local Group Was Deleted
