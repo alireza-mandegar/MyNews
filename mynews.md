@@ -62,3 +62,8 @@ E**x**tended **D**etection and **Response** is a new approach to threat detectio
 
 # mmc.exe
 Stand for **M**icrosoft **M**anagement **C**onsole; One of the most important computer management, contains several others including event viewer, disk management and device manager.
+
+# \ntsvcs
+Sysmon Event ID = 17, 18
+Its about pipe create and connect. this pipe is about rpc protocol. all about this pipe is [here](https://en.m.wikipedia.org/wiki/Service_Control_Manager)
+
