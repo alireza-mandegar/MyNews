@@ -59,3 +59,6 @@ E**x**tended **D**etection and **Response** is a new approach to threat detectio
 23--> File Delete
 24--> Clipboard Change
 225--> Error
+
+# mmc.exe
+Stand for **M**icrosoft **M**anagement **C**onsole; One of the most important computer management, contains several others including event viewer, disk management and device manager.
