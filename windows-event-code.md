@@ -76,5 +76,10 @@ This message is logged after a failed user's Kerberos pre-authentication attempt
 0x3C	Generic error (description in e-text)	 
 0x3D	Field is too long for this implementation	 
 
-# event code 5858
+# Windows Event Code 5858
 Is a common issue occurring while using the windows server with applications that use IWebSService:Execquery
+
+# Windows Event Code 7036
+Means that a service has changed its state to the one indicated in the error message.
+The error can occur due to corrupt system files and issues with Log files.
+A clean boot and an SFC scan can fix the error.
