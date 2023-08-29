@@ -13,3 +13,10 @@ Now being called Remote Desktop Service
 # mmc.exe
 Stand for **M**icrosoft **M**anagement **C**onsole; One of the most important computer management, contains several others including event viewer, disk management and device manager.
 
+# system.management.ni.dll
+system.management.ni.dll is a .NET Framework from Microsoft Corporation belonging to Microsoft® .NET Framework
+Non-system processes like system.management.ni.dll originate from software you installed on your system. Since most applications store data on your hard disk and in your system's registry, it is likely that your computer has suffered fragmentation and accumulated invalid entries which can affect your PC's performance.
+**The system.management.ni.dll is an executable file on your computer's hard drive. This file contains machine code. If you start the software Microsoft® .NET Framework on your PC, the commands contained in system.management.ni.dll will be executed on your PC. For this purpose, the file is loaded into the main memory (RAM) and runs there as a .NET Framework process (also called a task).**
+This process is considered safe. It is unlikely to pose any harm to your system. The system.management.ni.dll file should be located in the folder
+`C:\Windows\assembly\nativeimages_v2.0.50727_32\system.management\290a56d09b5648458910333b80321138`
+or `C:\Windows\assembly\nativeimages_v2.0.50727_32\system.management\32250bbcc6983e43b100b85e7d908e0c`. Otherwise it could be a Trojan.
