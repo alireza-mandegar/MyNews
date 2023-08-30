@@ -6,12 +6,11 @@ Stand for **R**emote **P**rocedure **C**all; Remote Procedure Call (RPC) is a po
 
 # DNS
 Stand for **D**omain **N**ame **S**ystem, is like the phone book of the internet . it maps human readable urls or hostname like:
-www.fireship.io -----------------------------------------> 172.16.254.1
+www.fireship.io --> 172.16.254.1
 
 ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+flowchart LR
+    markdown["`www.fireship.io`"]
+    newLines["`172.16.254.1`"]
+    markdown --> newLines
 ```
