@@ -6,5 +6,3 @@ E**x**tended **D**etection and **Response** is a new approach to threat detectio
 
 # LOLBAS
 LOLBAS is stand for **L**iving **O**ff the **L**and **B**inaries **A**nd **S**cripts; and its stand for a method of attack.
-
-# Mal
