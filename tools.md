@@ -4,5 +4,7 @@ E**x**tended **D**etection and **Response** is a new approach to threat detectio
 
 *Wazuh* is used to **collect**, **aggregate**, **index** and **analyse** security data, helping arganizations detect **intusions**, **threats** and **behavioral anomalies**.
 
+It can used as a xdr agent for our system.
+
 # LOLBAS
 LOLBAS is stand for **L**iving **O**ff the **L**and **B**inaries **A**nd **S**cripts; and its stand for a method of attack.
