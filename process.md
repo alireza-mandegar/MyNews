@@ -20,3 +20,8 @@ Non-system processes like system.management.ni.dll originate from software you i
 This process is considered safe. It is unlikely to pose any harm to your system. The system.management.ni.dll file should be located in the folder
 `C:\Windows\assembly\nativeimages_v2.0.50727_32\system.management\290a56d09b5648458910333b80321138`
 or `C:\Windows\assembly\nativeimages_v2.0.50727_32\system.management\32250bbcc6983e43b100b85e7d908e0c`. Otherwise it could be a Trojan.
+
+
+# CcmExec.exe
+CCMExec stands for **C**hange and **C**onfiguration **M**anagement **Exec**ution Agent Host
+It is the "SMS Agent Host" for Endpoint Configuration Management. It is a service that loads at Windows startup after the WMI service which it depends upon. It logs messages in "CCMexec.log". It receives and installs updates from the management server for Windows, Office, and certain non-Microsoft products like Java and Adobe. Occasionally it starts "inventory.exe" which scans all disks and reports what software is eligible for updates.
