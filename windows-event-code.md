@@ -1,3 +1,6 @@
+# Windows Event Code 4625
+logontype 8 stands for cleartext login
+
 # Windows Event code 4673
 Indicates that the specified user exercised the user right specified in the Privileges field.
 Note: "User rights" and "privileges" are synonymous terms used interchangeably in Windows. Some user rights are logged by this event - others by 4674
@@ -25,9 +28,9 @@ A Security-Enabled Local Group Was Deleted
 # Windows Event Code 4771
 This message is logged after a failed user's Kerberos pre-authentication attempt.
 - 0x6: The user's password has expired.
-- 0x12: The user's account is no longer active.
-- 0x18: This error code indicates an account lockout.
-- 0x24: The user's password is incorrect.
+0x12: The user's account is no longer active.
+0x18: This error code indicates an account lockout.
+0x24: The user's password is incorrect.
 0x1	Client's entry in database has expired	 
 0x2	Server's entry in database has expired	 
 0x3	Requested protocol version # not supported	 
