@@ -1,4 +1,5 @@
 # Windows Event Code 4625
+Event code 4625 in the Windows Event Log corresponds to a failed login attempt on a Windows system.
 logontype 8 stands for cleartext login
 
 # Windows Event code 4673
